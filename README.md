@@ -65,6 +65,16 @@ Gameplay video:
 
 ---
 
+## 📷 Screenshots 
+<p>
+  <img src="screenshots/a1.png" width="200" height="300" >
+  <img src="screenshots/a2.png" width="200" height="300">
+</p>
+<p>
+  <img src="screenshots/a3.png" width="200" height="300">
+  <img src="screenshots/a4.png" width="200" height="500">
+</p>
+
 This project demonstrates GUI development, AI implementation, algorithmic thinking, and structured state management in Python.
 
 ---
