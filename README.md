@@ -135,8 +135,8 @@ python main.py
 ## 📷 Screenshots 
 
 ```
-
-[Screenshot](screenshots/a1.png)
+![Screenshot](screenshots/a1.png)
+ù[Screenshot](screenshots/a1.png)
 [Screenshot](screenshots/a2.png)
 ```
 
