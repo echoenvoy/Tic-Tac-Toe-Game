@@ -118,7 +118,7 @@ pip install pygame
 
 ```bash
 python main.py
-```
+```https://github.com/echoenvoy/Tic-Tac-Toe-Game/blob/main/README.md
 
 ---
 
@@ -135,6 +135,7 @@ python main.py
 ---
 
 ## 📷 Screenshots 
+<img src="screenshots/a1.png" width="400" height="300">
 
 ```
 ![Screenshot](a1.png)
