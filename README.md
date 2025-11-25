@@ -132,12 +132,12 @@ python main.py
 
 ---
 
-## 📷 Screenshots (optional)
+## 📷 Screenshots 
 
 ```
 
-![Screenshot](screenshots/a1.png)
-![Screenshot](screenshots/a2.png)
+[Screenshot](screenshots/a1.png)
+[Screenshot](screenshots/a2.png)
 ```
 
 ---
