@@ -118,7 +118,6 @@ pip install pygame
 
 ```bash
 python main.py
-```https://github.com/echoenvoy/Tic-Tac-Toe-Game/blob/main/README.md
 ```
 ---
 
