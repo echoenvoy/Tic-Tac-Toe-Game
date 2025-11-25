@@ -139,7 +139,7 @@ python main.py
 </p>
 <p>
   <img src="screenshots/a3.png" width="200" height="300">
-  <img src="screenshots/a4.png" width="200" height="300">
+  <img src="screenshots/a4.png" width="200" height="500">
 </p>
 
 ---
