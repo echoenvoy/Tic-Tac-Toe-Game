@@ -137,6 +137,8 @@ python main.py
 You can add images later:
 
 ```
+<img width="900" height="1006" alt="image" src="https://github.com/user-attachments/assets/ec39533d-8ccd-49ee-9406-0b18d40333bb" />
+
 ![Screenshot](screenshots/menu.png)
 ![Screenshot](screenshots/game.png)
 ```
