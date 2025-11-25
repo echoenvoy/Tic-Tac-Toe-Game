@@ -134,12 +134,12 @@ python main.py
 
 ## 📷 Screenshots 
 <p>
-  <img src="screenshots/a1.png" width="150" height="300">
-  <img src="screenshots/a2.png" width="150" height="300">
+  <img src="screenshots/a1.png" width="200" height="300" >
+  <img src="screenshots/a2.png" width="200" height="300">
 </p>
 <p>
-  <img src="screenshots/a3.png" width="100" height="200">
-  <img src="screenshots/a4.png" width="100" height="200">
+  <img src="screenshots/a3.png" width="200" height="300">
+  <img src="screenshots/a4.png" width="200" height="300">
 </p>
 
 ---
