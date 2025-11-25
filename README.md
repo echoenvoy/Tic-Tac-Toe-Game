@@ -130,6 +130,8 @@ python main.py
 * **JSON (Data storage)**
 * **Minimax Algorithm (AI)**
 
+![Screenshot](a1.png)
+
 ---
 
 ## 📷 Screenshots 
